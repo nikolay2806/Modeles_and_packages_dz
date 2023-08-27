@@ -1,0 +1,88 @@
+{
+    "info": {
+        "system_info": {
+            "system": {
+                "comp_name": "LAPTOP-M7LVAFJQ",
+                "os_name": "Windows 10",
+                "version": "10.0.22000",
+                "machine": "AMD64"
+            },
+            "processor": {
+                "name": "AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD",
+                "phisycal_core": 8,
+                "all_core": 16,
+                "freq_max": "1801.00Мгц"
+            },
+            "ram": {
+                "volume": "15.39GiB",
+                "aviable": "1.67GiB",
+                "used": "13.72GiB"
+            }
+        },
+        "disk_info": {
+            "C:\\": {
+                "file_system": "NTFS",
+                "size_total": "150.29GiB",
+                "size_used": "123.11GiB",
+                "size_free": "27.18GiB",
+                "percent": "81.9"
+            },
+            "D:\\": {
+                "file_system": "NTFS",
+                "size_total": "325.16GiB",
+                "size_used": "290.60GiB",
+                "size_free": "34.55GiB",
+                "percent": "89.4"
+            },
+            "G:\\": {
+                "file_system": "FAT32",
+                "size_total": "15.00GiB",
+                "size_used": "10.64GiB",
+                "size_free": "4.36GiB",
+                "percent": "70.9"
+            }
+        },
+        "net_info": {
+            "VPN - VPN Client": {
+                "mac": "5E:D9:79:DA:1A:EA",
+                "ipv4": "169.254.40.105"
+            },
+            "Беспроводная сеть": {
+                "mac": "34:6F:24:1E:F1:4F",
+                "ipv4": "192.168.99.72"
+            },
+            "OpenVPN TAP-Windows6": {
+                "mac": "00:FF:E5:C0:69:FE",
+                "ipv4": "169.254.34.62"
+            },
+            "Подключение по локальной сети* 1": {
+                "mac": "36:6F:24:1E:F1:4F",
+                "ipv4": "169.254.147.41"
+            },
+            "Подключение по локальной сети* 2": {
+                "mac": "B6:6F:24:1E:F1:4F",
+                "ipv4": "169.254.156.186"
+            },
+            "VMware Network Adapter VMnet1": {
+                "mac": "00:50:56:C0:00:01",
+                "ipv4": "169.254.84.161"
+            },
+            "VMware Network Adapter VMnet8": {
+                "mac": "00:50:56:C0:00:08",
+                "ipv4": "169.254.68.124"
+            },
+            "Сетевое подключение Bluetooth": {
+                "mac": "34:6F:24:1E:F1:4E",
+                "ipv4": "169.254.67.158"
+            },
+            "OpenVPN Wintun": {
+                "mac": "169.254.243.213",
+                "ipv4": "fe80::aa29:cf03:d908:c6e9"
+            },
+            "Подключение по локальной сети": {
+                "mac": "169.254.140.46",
+                "ipv4": "fe80::ff3f:df3b:bd6d:7e0f"
+            }
+        }
+    }
+}
